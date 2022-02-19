@@ -1,5 +1,5 @@
 
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoc25&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoc25&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lorenzoc25/lorenzoc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
