@@ -1,5 +1,5 @@
 
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoc25&&bg_color=30,5307a8,0757a8&title_color=82c1ff&text_color=bfdfff&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoc25&&bg_color=30,5307a8,0757a8&title_color=82c1ff&text_color=bfdfff&hide_border=true&show_icons=true&&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lorenzoc25/lorenzoc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
